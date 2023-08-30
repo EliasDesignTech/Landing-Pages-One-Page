@@ -1,5 +1,4 @@
 # Landing-Pages-One-Page
-##
 (English)
 
 Medcine Landing Page:
